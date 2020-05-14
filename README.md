@@ -2,9 +2,9 @@
 
 'Nothing in this life worth achieving is easy, nor is it impossible' - James May. 
 
-Having completed a BSC in Combined Engineering and landing a position as Safety Engineer in Comau (a leading robotics company) I found myself wanting more out of my role. With a passion for problem solving and desire to develop my algorithmic thinking it was inevitable that my interest would peak when the software team was integrated to the engineer department.
+Having completed a BSC in Combined Engineering and landing a position as Safety Engineer in Comau (a leading robotics company) I found myself wanting more out of my role. With a passion for problem solving and desire to develop my algorithmic thinking it was inevitable that my interest would peak when the software team was integrated to the engineering department.
 
-Intrigued and constantly curious about software development I researched the subject and finally took the risk to leave my role and join Makers, a software development bootcamp.
+Intrigued and constantly curious about software development I researched the subject and finally took the leap, leaving my role to join Makers Academy, a software development bootcamp.
 
 As a self starter, innovative thinker and overall great guy to talk to especially when coffee (and cake) is involved; I feel content with my decision to pursue a skill that will lead me into a career I can fully immerse myself in and use my progressive skillset to its potential.
 
