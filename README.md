@@ -64,4 +64,5 @@ A positive thinker and active doer, with a passion for life and personal develop
 •	Self-Development
 •	Photography
 •	Live music/events and festivals
+•	Paintballing
 I also have a keen interest in entrepreneurship, self-starting an online jewellery shop with minimal capital to fund my way through university.
