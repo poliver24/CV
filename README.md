@@ -1,6 +1,6 @@
 ## Patrick Oliver
 
-'Nothing in this life worth achieving is easy, nor is it impossible' - James May. 
+***'Nothing in this life worth achieving is easy, nor is it impossible' - James May***
 
 Having completed a BSC in Combined Engineering and landing a position as Safety Engineer in Comau (a leading robotics company) I found myself wanting more out of my role. With a passion for problem solving and desire to develop my algorithmic thinking it was inevitable that my interest would peak when the software team was integrated to the engineering department.
 
