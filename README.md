@@ -55,9 +55,9 @@ Highfields Science Specialist School
 **Comau** (July 2018 to July 2019)    
 *Trainee Safety Engineer*  
 - Working within a close-knit team to find effective safety solutions for industrial applications.
-•	Collaborating with internal and external stakeholders to find effective solutions, build successful and strong relationships both interdepartmentally and B2B networks.
-•	Assisted in providing Professional Safety Engineering Guidance to technical field staff
-•	Assisted in conducting safety surveys and risk assessments of field locations, identifying immediate/potential hazards and establishing action plans and follow-up procedures to minimise the identified threats.
+- Collaborating with internal and external stakeholders to find effective solutions, build successful and strong relationships both interdepartmentally and B2B networks.
+- Assisted in providing Professional Safety Engineering Guidance to technical field staff
+- Assisted in conducting safety surveys and risk assessments of field locations, identifying immediate/potential hazards and establishing action plans and follow-up procedures to minimise the identified threats.
 
 ## HOBBIES
 
