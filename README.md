@@ -44,10 +44,10 @@ Coventry University
 
 #### Highfield's School (September 2007 - June 2015)
 
-4 A-Levels Mathematics, ICT, Business Studies & Photography			Sept 2012 – Jun 2015
+- 4 A-Levels Mathematics, ICT, Business Studies & Photography			Sept 2012 – Jun 2015
 Highfields Science Specialist School (Sixth Form)
 
-10 GCSE’s A-C including English, Mathematics & Science 			Sept 2007 – Jul 2012
+- 10 GCSE’s A-C including English, Mathematics & Science 			Sept 2007 – Jul 2012
 Highfields Science Specialist School
 
 ## EXPERIENCE
