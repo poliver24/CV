@@ -18,7 +18,7 @@ It didn't come easy, but that's why it's worth it.
 
 **Effective Communication** - There are certain situations that really test your team working abilities and how effectively you are able to communicate, little does this quite so effectively as a national level Paintball tournament. Being able to effecitvely communicate your current situation and the location of the opposing team members through cross-field shouting, whilst under the constant barage of 15 paintballs per second is no mean feat. Mastering this ability was the corner stone to our success. 
 
-**Self-Learner** - 
+**Self-Learner** - Often, the best way to innovate, to improve, to adapt, is to do something different. Occasionaly this means doing something totally new, that you nor your team has experience in. One time I did just this was during my University dissertation, working on an individual project I decided to let passion lead the way. Through numerous online resources and breaking the problem into more manageable chunks, I ended up effectively using technologies my tutors had never before touched, and implemented them to create a final piece I was elated with. An object tracking paintball sentry gun. Pretty cool right?!
 
 
 #### Makers Academy (January to May 2020)
