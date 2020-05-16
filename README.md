@@ -10,7 +10,7 @@ As a self starter, innovative thinker and overall great guy to talk to especiall
 
 It didn't come easy, but that's why it's worth it.
 
-## Skills
+## SKILLS
 
 **Analytical Thinker** - Effective problem solving is a essential part of being a Safety Engineer. Each time I am presented with a complex problem, I will take the time to break it down and to really understand its intricacies. From doing this it is possible to create SMART goals that I can use to estimate the time it will take to complete, and to measure my progress against. 
 
@@ -20,7 +20,7 @@ It didn't come easy, but that's why it's worth it.
 
 **Self-Learner** - Often, the best way to innovate, to improve, to adapt, is to do something different. Occasionaly this means doing something totally new, that you nor your team has experience in. One time I did just this was during my University dissertation, working on an individual project I decided to let passion lead the way. Through numerous online resources and breaking the problem into more manageable chunks, I ended up effectively using technologies my tutors had never before touched, and implemented them to create a final piece I was elated with. An object tracking paintball sentry gun. Pretty cool right?!
 
-## Education
+## EDUCATION
 
 #### Makers Academy (January to May 2020)
 
@@ -42,7 +42,7 @@ Coventry University
 Coventry University
 
 
-#### Any other qualifications
+#### Highfield's School
 
 4 A-Levels Mathematics, ICT, Business Studies & Photography			Sept 2012 – Jun 2015
 Highfields Science Specialist School (Sixth Form)
@@ -50,7 +50,7 @@ Highfields Science Specialist School (Sixth Form)
 10 GCSE’s A-C including English, Mathematics & Science 			Sept 2007 – Jul 2012
 Highfields Science Specialist School
 
-## Experience
+## EXPERIENCE
 
 **Comau** (July 2018 to July 2019)    
 *Trainee Safety Engineer*  
@@ -59,7 +59,7 @@ Highfields Science Specialist School
 •	Assisted in providing Professional Safety Engineering Guidance to field technical staff
 •	Assisted in conducting safety surveys and risk assessments of field locations, identifying immediate/potential hazards and establishing action plans and follow-up procedures to minimise the identified threats.
 
-## Hobbies
+## HOBBIES
 
 A positive thinker and active doer, with a passion for life and personal development. I regularly pursue and undertake my interests, including:
 •	Self-Development
