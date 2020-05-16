@@ -62,8 +62,9 @@ Highfields Science Specialist School
 ## HOBBIES
 
 A positive thinker and active doer, with a passion for life and personal development. I regularly pursue and undertake my interests, including:
-•	Self-Development
-•	Photography
-•	Live music/events and festivals
-•	Paintballing
+- Self-Development
+- Photography
+- Live music/events and festivals
+- Paintballing
+
 I also have a keen interest in entrepreneurship, self-starting an online jewellery shop with minimal capital to fund my way through university.
