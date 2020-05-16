@@ -1,5 +1,7 @@
 # Patrick Oliver
 
+## Profile
+
 ***'Nothing in this life worth achieving is easy, nor is it impossible' - James May***
 
 Having completed a BSC in Combined Engineering and landing a position as Safety Engineer in Comau (a leading robotics company) I found myself wanting more out of my role. With a passion for problem solving and desire to develop my algorithmic thinking it was inevitable that my interest would peak when the software team was integrated to the engineering department.
@@ -20,6 +22,7 @@ It didn't come easy, but that's why it's worth it.
 
 **Self-Learner** - Often, the best way to innovate, to improve, to adapt, is to do something different. Occasionaly this means doing something totally new, that you nor your team has experience in. One time I did just this was during my University dissertation, working on an individual project I decided to let passion lead the way. Through numerous online resources and breaking the problem into more manageable chunks, I ended up effectively using technologies my tutors had never before touched, and implemented them to create a final piece I was elated with. An object tracking paintball sentry gun. Pretty cool right?!
 
+## Education
 
 #### Makers Academy (January to May 2020)
 
