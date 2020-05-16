@@ -14,9 +14,9 @@ It didn't come easy, but that's why it's worth it.
 
 **Analytical Thinker** - Effective problem solving is a essential part of being a Safety Engineer. Each time I am presented with a complex problem, I will take the time to break it down and to really understand its intricacies. From doing this it is possible to create SMART goals that I can use to estimate the time it will take to complete, and to measure my progress against. 
 
-**Teamwork** - Working in an Engineering position, I was continually surrounded by large scale problems which would often involve numerous business departments. It is essential to collaborate and work together effectively in order to find the best solution. 
+**Team Member** - Working in an Engineering position, I was continually surrounded by large scale problems which would often involve numerous business departments. It is essential to collaborate and work together effectively in order to find the best solution. 
 
-**Effective Communication** - 
+**Effective Communication** - There are certain situations that really test your team working abilities and how effectively you are able to communicate, little does this quite so effectively as a national level Paintball tournament. Being able to effectively communicate with my team mates was the corner stone to our success. Constant screams of our current situation and the location of the opposing team members, whilst under the barage of 15 paintballs per second is no mean feat. 
 
 **Self-Learner** - 
 
