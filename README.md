@@ -12,13 +12,13 @@ It didn't come easy, but that's why it's worth it.
 
 ## Skills
 
-*Analytical Thinker* - Effective problem solving is a essential part of being a Safety Engineer. Each time I am presented with a complex problem, I will take the time to break it down and to really understand its intricacies. From doing this it is possible to create SMART goals that I can use to estimate the time it will take to complete, and to measure my progress against. 
+**Analytical Thinker** - Effective problem solving is a essential part of being a Safety Engineer. Each time I am presented with a complex problem, I will take the time to break it down and to really understand its intricacies. From doing this it is possible to create SMART goals that I can use to estimate the time it will take to complete, and to measure my progress against. 
 
-*Teamwork* - Working in an Engineering position, I was continually surrounded by large scale problems which would often involve numerous business departments. It is essential to collaborate and work together effectively in order to find the best solution. 
+**Teamwork** - Working in an Engineering position, I was continually surrounded by large scale problems which would often involve numerous business departments. It is essential to collaborate and work together effectively in order to find the best solution. 
 
-*Effective Communication* - 
+**Effective Communication** - 
 
-*Self-Learner* - 
+**Self-Learner** - 
 
 
 #### Makers Academy (January to May 2020)
