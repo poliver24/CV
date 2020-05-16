@@ -42,7 +42,7 @@ Coventry University
 Coventry University
 
 
-#### Highfield's School
+#### Highfield's School (September 2007 - June 2015)
 
 4 A-Levels Mathematics, ICT, Business Studies & Photography			Sept 2012 – Jun 2015
 Highfields Science Specialist School (Sixth Form)
