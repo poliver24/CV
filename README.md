@@ -1,14 +1,12 @@
 # **PATRICK OLIVER**
 
-***'Nothing in this life worth achieving is easy, nor is it impossible' - James May***
+***It didn't come easy, but that's why it's worth it. ***
 
 Having completed a BSC in Combined Engineering and landing a position as Safety Engineer in Comau (a leading robotics company) I found myself wanting more out of my role. With a passion for problem solving and desire to develop my algorithmic thinking it was inevitable that my interest would peak when the software team was integrated to the engineering department.
 
 Intrigued and constantly curious about software development I researched the subject and finally took the leap, leaving my role to join Makers Academy, a software development bootcamp.
 
 As a self starter, innovative thinker and overall great guy to talk to especially when coffee (and cake) is involved; I feel content with my decision to pursue a skill that will lead me into a career I can fully immerse myself in and use my progressive skillset to its potential.
-
-It didn't come easy, but that's why it's worth it.
 
 ## SKILLS
 
@@ -25,9 +23,23 @@ It didn't come easy, but that's why it's worth it.
 #### Makers Academy (January to May 2020)
 
 - OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
+- Agile, XP, Scrum, Kanban
+- Ruby, Python, CSS, HTML, JavaScript
 - RSpec, Jasmine
+- Rails, JQuery
+- Postgres, SQLite
+
+##### PROJECTS
+**SPACE-TRASH**
+A Group Research Project into the threat of space debris, including orbital prediction machine learning models using TensorFlow and 3D Visualisations using CesiumJS.
+
+**ACEBOOK**
+A Group Project on our take of the populat social networking site, Facebook. 
+Built using Ruby on Rails and Active Record. 
+
+**THERMOSTAT-JS**
+A Solo Project, a beautiful front-end interpretation of a modern thermostat interface as a single page JavaScript website. 
+
 
 #### Coventry University (September 2015 to June 2018)
 
