@@ -10,24 +10,30 @@ As a self starter, innovative thinker and overall great guy to talk to especiall
 
 ## SKILLS
 
-**Analytical Thinker** - Effective problem solving is a essential part of being a Safety Engineer. Each time I am presented with a complex problem, I will take the time to break it down and to really understand its intricacies. From doing this it is possible to create SMART goals that I can use to estimate the time it will take to complete, and to measure my progress against. 
+**Analytical Thinking** - Effective problem solving is a essential part of being a Safety Engineer. Each time I am presented with a complex problem, I will take the time to break it down and to really understand its intricacies. After doing this, I generate solutions to the problem and validate my progress through tests. 
 
-**Team Member** - Working in an Engineering position, I was continually surrounded by large scale problems which would often involve numerous business departments. It is essential to collaborate and work together effectively in order to find the best solution. 
-
-**Effective Communication** - There are certain situations that really test your team working abilities and how effectively you are able to communicate, little does this quite so effectively as a national level Paintball tournament. Being able to effecitvely communicate your current situation and the location of the opposing team members through cross-field shouting, whilst under the constant barage of 15 paintballs per second is no mean feat. Mastering this ability was the corner stone to our success. 
+**Communication** - There are certain situations that really test your team working abilities and how effectively you are able to communicate, little does this quite so effectively as a national level Paintball tournament. Being able to effecitvely communicate your current situation and the location of the opposing team members through cross-field shouting, whilst under the constant barage of 15 paintballs per second is no mean feat. Mastering this ability was the corner stone to our success.
 
 **Self-Learner** - Often, the best way to innovate, to improve, to adapt, is to do something different. Occasionaly this means doing something totally new, that you nor your team has experience in. One time I did just this was during my University dissertation, working on an individual project I decided to let passion lead the way. Through numerous online resources and breaking the problem into more manageable chunks, I ended up effectively using technologies my tutors had never before touched, and implemented them to create a final piece I was elated with. An object tracking paintball sentry gun. Pretty cool right?!
+
+## PROJECTS
+
+| | | 
+|:-------------------------:|:-------------------------:|
+| <a href="https://github.com/The-Mech-Squad/the_mech_squad"><img width="1604" alt="Space-Trash" src="./cv-images/space-trash.png" height="222" width="258"> </a>  [Space Trash](https://github.com/The-Mech-Squad/the_mech_squad) |  When a group of 6 like-minded developers come together, what do you get? Existential Dread and......**SPACE TRASH.** A research project created to tackle the ever growing Space Debris problem. Featuring Machine Learning using TensorFlow and 3D Visualisation with CesiumJS.|
+<a href="https://github.com/Thatguy560/acebook-5Makerteers"><img width="1604" alt="Acebook" src="./cv-images/acebook.png" height="222" width="258"> </a> [Acebook](https://github.com/stellenberger/bank_tech_test) | Our take on Facebook, completed using Ruby on Rails and Postgres Database integration with Active Record.|
+| <a href="https://github.com/poliver24/Thermostat-JS"><img width="1604" alt="Thermostat-JS" src="./cv-images/Thermostat.png" height="222" width="258"> </a>  [Thermostat-JS](https://github.com/poliver24/Thermostat-JS) | A Beautiful interpretation of a modern Thermostat, fully functioning with ***Hive Active Heating*** Integration. Built as a single page Javascript website. | 
 
 ## EDUCATION
 
 #### Makers Academy (January to May 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile, XP, Scrum, Kanban
-- Ruby, Python, CSS, HTML, JavaScript
-- RSpec, Jasmine
-- Rails, JQuery
-- Postgres, SQLite
+- Competent with programming practises such as OOP, TDD, MVC, DDD
+- Work completed using Agile, XP, Scrum, Kanban
+- Web development with Ruby, Python, CSS, HTML, JavaScript
+- Frameworks such as Rails, JQuery
+- Testing frameworks such as RSpec, Jasmine
+- Database integration using Postgres, SQLite
 
 ##### PROJECTS
 **SPACE-TRASH**
@@ -51,6 +57,9 @@ A Solo Project, a beautiful front-end interpretation of a modern thermostat inte
 Coventry University
 
 “Develop and build an autonomous object tracking paintball sentry gun” 	Mar 2018
+Coventry University
+
+"Development of a Printer Control System using a PIC Microchip - Built using C Language"  Jun 2018
 Coventry University
 
 
