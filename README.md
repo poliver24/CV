@@ -20,9 +20,9 @@ As a self starter, innovative thinker and overall great guy to talk to especiall
 
 | | | 
 |:-------------------------:|:-------------------------:|
-| <a href="https://github.com/The-Mech-Squad/the_mech_squad"><img width="1604" alt="Space-Trash" src="./cv-images/space-trash.png"> </a>  [Space Trash](https://github.com/The-Mech-Squad/the_mech_squad) |  When a group of 6 like-minded developers come together, what do you get? Existential Dread and......**SPACE TRASH.** A research project created to tackle the ever growing Space Debris problem. Featuring Machine Learning using TensorFlow and 3D Visualisation with CesiumJS.|
-<a href="https://github.com/Thatguy560/acebook-5Makerteers"><img width="1604" alt="Acebook" src="./cv-images/acebook.png"> </a> [Acebook](https://github.com/stellenberger/bank_tech_test) | Our take on Facebook, completed using Ruby on Rails and Postgres Database integration with Active Record.|
-| <a href="https://github.com/poliver24/Thermostat-JS"><img width="1604" alt="Thermostat-JS" src="./cv-images/Thermostat.png"> </a>  [Thermostat-JS](https://github.com/poliver24/Thermostat-JS) | A Beautiful interpretation of a modern Thermostat, fully functioning with ***Hive Active Heating*** Integration. Built as a single page Javascript website. | 
+| <a href="https://github.com/The-Mech-Squad/the_mech_squad"><img width="1604" alt="Space-Trash" src="./cv-images/space-trash.png"> </a>  [SPACE TRASH](https://github.com/The-Mech-Squad/the_mech_squad) |  When a group of 6 like-minded developers come together, what do you get? Existential Dread and......**SPACE TRASH.** A research project created to tackle the ever growing Space Debris problem. Featuring Machine Learning using TensorFlow and 3D Visualisation with CesiumJS.|
+<a href="https://github.com/Thatguy560/acebook-5Makerteers"><img width="1604" alt="Acebook" src="./cv-images/acebook.png"> </a> [ACEBOOK](https://github.com/stellenberger/bank_tech_test) | Our take on Facebook, completed using Ruby on Rails and Postgres Database integration with Active Record.|
+| <a href="https://github.com/poliver24/Thermostat-JS"><img width="1604" alt="Thermostat-JS" src="./cv-images/Thermostat.png"> </a>  [THERMOSTAT](https://github.com/poliver24/Thermostat-JS) | A Beautiful interpretation of a modern Thermostat, fully functioning with ***Hive Active Heating*** Integration. Built as a single page Javascript website. | 
 
 ## EDUCATION
 
