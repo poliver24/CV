@@ -33,18 +33,7 @@ As a self starter, innovative thinker and overall great guy to talk to especiall
 - Web development with Ruby, Python, CSS, HTML, JavaScript
 - Frameworks such as Rails, JQuery
 - Testing frameworks such as RSpec, Jasmine
-- Database integration using Postgres, SQLite
-
-##### PROJECTS
-**SPACE-TRASH**
-A Group Research Project into the threat of space debris, including orbital prediction machine learning models using TensorFlow and 3D Visualisations using CesiumJS.
-
-**ACEBOOK**
-A Group Project on our take of the populat social networking site, Facebook. 
-Built using Ruby on Rails and Active Record. 
-
-**THERMOSTAT-JS**
-A Solo Project, a beautiful front-end interpretation of a modern thermostat interface as a single page JavaScript website. 
+- Database integration using Postgres, SQLite 
 
 
 #### Coventry University (September 2015 to June 2018)
