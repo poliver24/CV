@@ -1,7 +1,5 @@
 # **PATRICK OLIVER**
 
-**It didn't come easy, but that's why it's worth it**
-
 Having completed a BSC in Combined Engineering and landing a position as Safety Engineer in Comau (a leading robotics company) I found myself wanting more out of my role. With a passion for problem solving and desire to develop my algorithmic thinking it was inevitable that my interest would peak when the software team was integrated to the engineering department.
 
 Intrigued and constantly curious about software development I researched the subject and finally took the leap, leaving my role to join Makers Academy, a software development bootcamp.
@@ -20,9 +18,9 @@ As a self starter, innovative thinker and overall great guy to talk to especiall
 
 | | | 
 |:-------------------------:|:-------------------------:|
-| <a href="https://github.com/The-Mech-Squad/the_mech_squad"><img width="1604" alt="Space-Trash" src="./cv-images/space-trash.png"> </a>  [Space Trash](https://github.com/The-Mech-Squad/the_mech_squad) |  When a group of 6 like-minded developers come together, what do you get? Existential Dread and......**SPACE TRASH.** A research project created to tackle the ever growing Space Debris problem. Featuring Machine Learning using TensorFlow and 3D Visualisation with CesiumJS.|
-<a href="https://github.com/Thatguy560/acebook-5Makerteers"><img width="1604" alt="Acebook" src="./cv-images/acebook.png"> </a> [Acebook](https://github.com/stellenberger/bank_tech_test) | Our take on Facebook, completed using Ruby on Rails and Postgres Database integration with Active Record.|
-| <a href="https://github.com/poliver24/Thermostat-JS"><img width="1604" alt="Thermostat-JS" src="./cv-images/Thermostat.png"> </a>  [Thermostat-JS](https://github.com/poliver24/Thermostat-JS) | A Beautiful interpretation of a modern Thermostat, fully functioning with ***Hive Active Heating*** Integration. Built as a single page Javascript website. | 
+| <a href="https://github.com/The-Mech-Squad/the_mech_squad"><img width="1604" alt="Space-Trash" src="./cv-images/space-trash.png"> </a>  [SPACE TRASH](https://github.com/The-Mech-Squad/the_mech_squad) |  When a group of 6 like-minded developers come together, what do you get? Existential Dread and......**SPACE TRASH.** A research project created to tackle the ever growing Space Debris problem. Featuring Machine Learning using TensorFlow and 3D Visualisation with CesiumJS.|
+<a href="https://github.com/Thatguy560/acebook-5Makerteers"><img width="1604" alt="Acebook" src="./cv-images/acebook.png"> </a> [ACEBOOK](https://github.com/stellenberger/bank_tech_test) | Our take on Facebook, completed using Ruby on Rails and Postgres Database integration with Active Record.|
+| <a href="https://github.com/poliver24/notebook-js"><img width="1604" alt="Notepad-JS" src="./cv-images/notepad-js.png"> </a>  [NOTEPAD-JS](https://github.com/poliver24/notebook-js) | A Vanilla JavaSript notepad application, built using the Revealing Module JS Pattern, fully TDD'd and following SRP principles | 
 
 ## EDUCATION
 
@@ -33,18 +31,7 @@ As a self starter, innovative thinker and overall great guy to talk to especiall
 - Web development with Ruby, Python, CSS, HTML, JavaScript
 - Frameworks such as Rails, JQuery
 - Testing frameworks such as RSpec, Jasmine
-- Database integration using Postgres, SQLite
-
-##### PROJECTS
-**SPACE-TRASH**
-A Group Research Project into the threat of space debris, including orbital prediction machine learning models using TensorFlow and 3D Visualisations using CesiumJS.
-
-**ACEBOOK**
-A Group Project on our take of the populat social networking site, Facebook. 
-Built using Ruby on Rails and Active Record. 
-
-**THERMOSTAT-JS**
-A Solo Project, a beautiful front-end interpretation of a modern thermostat interface as a single page JavaScript website. 
+- Database integration using Postgres, SQLite 
 
 
 #### Coventry University (September 2015 to June 2018)
@@ -80,12 +67,8 @@ Highfields Science Specialist School
 - Assisted in providing Professional Safety Engineering Guidance to technical field staff
 - Assisted in conducting safety surveys and risk assessments of field locations, identifying immediate/potential hazards and establishing action plans and follow-up procedures to minimise the identified threats.
 
-## HOBBIES
+## ACHIEVEMENTS
 
-A positive thinker and active doer, with a passion for life and personal development. I regularly pursue and undertake my interests, including:
-- Self-Development
-- Photography
-- Live music/events and festivals
-- Paintballing
-
-I also have a keen interest in entrepreneurship, self-starting an online jewellery shop with minimal capital to fund my way through university.
+- As an entrepeneur I Self-started an online Jewellery business to fund my way through university.
+- As an avid foodie I co-founded a Keto catering company and co-created some wicked eats!
+- As a Software Developer I scored 2nd place in a COVID-19 themed hackathon
